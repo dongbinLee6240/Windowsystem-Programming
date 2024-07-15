@@ -13,10 +13,37 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\4장">
+      <UniqueIdentifier>{1ad2a2b4-acc5-490e-a9b7-a1892c63451b}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.1.3 ThreadExcept.cpp">
       <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.1.cpp">
+      <Filter>소스 파일\4장</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.2.cpp">
+      <Filter>소스 파일\4장</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.3.cpp">
+      <Filter>소스 파일\4장</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.4.cpp">
+      <Filter>소스 파일\4장</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.5.cpp">
+      <Filter>소스 파일\4장</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.6.cpp">
+      <Filter>소스 파일\4장</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.7.cpp">
+      <Filter>소스 파일\4장</Filter>
+    </ClCompile>
+    <ClCompile Include="4.1.8.cpp">
+      <Filter>소스 파일\4장</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
